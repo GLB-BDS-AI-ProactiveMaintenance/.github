@@ -35,6 +35,7 @@ This PR modifies the behavior to achieve [specific goal]. The motivation for thi
 - [ ] New and existing unit and integration tests pass locally with my changes.
 - [ ] I have squashed and rebased my commits on the latest master branch.
 - [ ] I have provided enough PR review material for the reviewer.
+- [ ] I have successfully launched the (smcx-proma) e2e tests using the current branch
 
 ## ℹ️ Additional Information
 
